@@ -6,8 +6,6 @@
 
 <p align="left">👨‍💻 MERN Stack Developer<br>🌟 MERN Stack Specialist<br>💡 Passionate about clean code and user-centric solutions</p> 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ShahBakhsh16label=Profile%20views&color=0e75b6&style=flat" alt="ShahBakhsh16" /> </p>
-
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
@@ -53,6 +51,8 @@
 <p style="margin-top: 5px;"></p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ShahBakhsh16&show_icons=true&locale=en&layout=compact" alt="ShahBakhsh16 />
 </p>
+<br></br>
+<br></br>
 <br></br>
 <br></br>
 <br></br>
