@@ -50,9 +50,8 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="30" alt="androidstudio logo"  />
 </div>
-
 <p style="margin-top: 5px;"></p>
-  <img align="left" src="https://developershahbakhsh.web.app&show_icons=true&locale=en&layout=compact" alt="ShahBakhsh16" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ShahBakhsh16&show_icons=true&locale=en&layout=compact" alt="ShahBakhsh16 />
 </p>
 <br></br>
 <br></br>
